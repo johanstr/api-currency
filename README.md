@@ -1,4 +1,4 @@
-#API - Currency
+# API - Currency
 
 ## Inleiding
 Voor de workshops API's - Basiskennis bouwen we een simpele API waarmee we de valuta waarden, zoals deze bij de ECB staan geregistreerd, kunnen raadplegen.
